@@ -4,3 +4,4 @@ print("bu ikinci python code'udur")
 
 print("bu üçüncü python code'udur")
 
+print("bu dördüncü python code'udur")
