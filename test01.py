@@ -9,3 +9,6 @@ print("bu dördüncü python code'udur")
 print("bu beşinci python code'udur")
 
 print("bu altinci python code'udur")
+
+
+print("bu yedin python code'udur")
